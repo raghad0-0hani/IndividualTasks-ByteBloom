@@ -6,7 +6,7 @@ This repository contains my individual Kotlin programming tasks, assignments, an
 - Kotlin fundamentals
 - Algorithms and problem solving
 - Data structures
-- University assignments
+- Course Individual Tasks
 - Practice projects
 
 The repository is continuously updated as I complete new exercises and projects.
