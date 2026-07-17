@@ -1,4 +1,4 @@
-# Kotlin Practice Repository
+# Kotlin Individual Tasks Repository
 
 This repository contains my individual Kotlin programming tasks, assignments, and practice projects.
 
